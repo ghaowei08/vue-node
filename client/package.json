@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "i18next": "^22.0.6",
+    "i18next-vue": "^2.1.1",
     "vue": "^3.2.41"
   },
   "devDependencies": {
